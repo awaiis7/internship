@@ -17,7 +17,7 @@
 
 ///////BOTH SYNCHRONOUS AND ASYNCHRONOUS--------
 
-/*function doWork(sync = true) {
+function doWork(sync = true) {
     if (sync) {
         // Synchronous logic
         console.log("Running synchronously...");
@@ -139,11 +139,11 @@ function isPalindrome(str) {
 // Test cases:
 console.log(isPalindrome("racecar"));    // true
 console.log(isPalindrome("hello"));      // false
-console.log(isPalindrome("madam"));      // true */
+console.log(isPalindrome("madam"));      // true 
 
 //////////////////////////----------------END ASSIGNMENT NO 1-------------/////////////////////////
 
-            ///////////////---------ASSIGNMENT NO 2------------////////////////
+          
             
 
 
